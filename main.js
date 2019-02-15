@@ -1,4 +1,8 @@
 (function () {
+    // Declare variables here
+    // currentPosition
+    // currentDirection
+    
     /**
      * takes a distance parameter. 
      * Move the character forward (based on the 
